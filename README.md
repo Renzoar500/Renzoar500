@@ -1,15 +1,20 @@
-# Hola, soy Renzo 👋
-
-Egresado de **Ingeniería de Sistemas** de la Universidad de Lima. Apasionado por el desarrollo de software y la inteligencia artificial, con experiencia en arquitecturas frontend accesibles, desarrollo móvil e implementación de modelos de Deep Learning / NLP.
-
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&bgColor=0D1117&height=180&section=header&text=Renzo%20Arroyo&fontSize=42&fontAlignY=42&fontColor=A3E635&desc=Software%20Engineer%20%7C%20Systems%20Engineering&descSize=14&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+</div>
+<p align="center">
+  <a href="https://github.com/Renzoar500">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A3E635&center=true&vCenter=true&width=550&lines=Software+Engineer;Full-Stack+%26+Mobile+Developer;Currently+working+on+NLP+Thesis;Web+Accessibility+(WCAG)" alt="Typing SVG" />
+  </a>
+</p>
 
 ### 🚀 Sobre mí
 
+Egresado de **Ingeniería de Sistemas** de la Universidad de Lima. Apasionado por el desarrollo de software y la inteligencia artificial, con experiencia en arquitecturas frontend accesibles, desarrollo móvil e implementación de modelos de Deep Learning / NLP.
+
+
 - 🔭 **Actualmente trabajando en:** Mi proyecto de tesis enfocado en **Natural Language Processing (NLP) y Deep Learning**.
 - 💼 **Experiencia:** Ex Ayudante de Cátedra de Programación Móvil (Universidad de Lima).
-- 🌱 **Enfocado en:** Desarrollo Full-Stack, arquitecturas limpias y accesibilidad web (WCAG).
-- 💬 **Hablemos sobre:** React, Flutter, Python, Django, PyTorch y buenas prácticas de software.
+- 🌱 **Enfocado en:** Desarrollo Full-Stack, arquitecturas limpias.
 
 ---
 
@@ -63,8 +68,15 @@ Egresado de **Ingeniería de Sistemas** de la Universidad de Lima. Apasionado po
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Renzoar500&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renzoar500&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Renzoar500&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renzoar500&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Renzoar500&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 ---
