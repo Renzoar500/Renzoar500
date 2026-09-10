@@ -3,7 +3,7 @@
 </div>
 <p align="center">
   <a href="https://github.com/Renzoar500">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A3E635&center=true&vCenter=true&width=550&lines=Software+Engineer;Full-Stack+%26+Mobile+Developer;Currently+working+on+NLP+Thesis;Web+Accessibility+(WCAG)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A3E635&center=true&vCenter=true&width=550&lines=Software+Engineer;Full-Stack+%26+Mobile+Developer;Currently+working+on+NLP+Thesis" alt="Typing SVG" />
   </a>
 </p>
 
