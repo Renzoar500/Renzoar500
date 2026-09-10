@@ -65,22 +65,6 @@ Egresado de **Ingeniería de Sistemas** de la Universidad de Lima. Apasionado po
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Renzoar500&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renzoar500&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Renzoar500&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Contacto
 
 <p align="left">
